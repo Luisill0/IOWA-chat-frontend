@@ -1,0 +1,35 @@
+#log-page #view-password:hover {
+    cursor: pointer;
+    filter: brightness(95%);
+}
+
+#log-page #view-password:active {
+    cursor: pointer;
+    filter: brightness(90%);
+}
+
+#log-page #passwd-list {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
+#log-page .checked {
+    color: #60ce58;
+}
+
+#log-page .unchecked {
+    color: #bf0000;
+}
+
+#log-page #btn-create {
+    filter: brightness(95%);
+}
+
+.btn-faded {
+    filter: brightness(95%);
+}
+
+#profile-page #description-box {
+    min-height: 100px;
+}
